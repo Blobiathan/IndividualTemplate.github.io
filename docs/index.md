@@ -5,9 +5,9 @@ tags:
 - tag2
 ---
 <center>
-<font size= "6">(Your Name) Datasheet</font><br>
+<font size= "6">Levi Addink Datasheet</font><br>
 as part of<br>
-<font size= "8"> Project Name</font><br>
+<font size= "8"> Git setup project</font><br>
 for<br>
 <font size= "5"> Team ### </font><br>
 
